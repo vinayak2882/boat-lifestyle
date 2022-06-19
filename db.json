@@ -1,0 +1,238 @@
+{
+    "Best_Sellers": [
+        {
+"id": 1,
+"title":"boAt Airdopes 131 - Wireless Earbuds",
+"category":"best",
+"price":999,
+"image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/32011675-2ad8-4b99-9787-895caf201d28_400x.png?v=1642405569",
+"rating":{"rate":2.8, "count":932}
+    },
+        {
+"id": 2,
+"title":"boAt Rockerz 330",
+"category":"best",
+"price":1499,
+"image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main3_a08fff6a-7c3d-4663-9499-3421df127e94_400x.png?v=1641801688",
+"rating":{"rate":4.8, "count":258}
+    },
+        {
+"id": 3,
+"title":"boAt Rockerz 333",
+"category":"best",
+"price":1199,
+"image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-img-R333-1_400x.png?v=1641801662",
+"rating":{"rate":4.9, "count":92}
+    },
+        {
+"id": 4,
+"title":"boAt Watch Xtend‌",
+"category":"best",
+"price":3199,
+"image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/xtend_black_400x.png?v=1650387008",
+"rating":{"rate":4.8, "count":113}
+    }
+
+],
+
+"Smart_Watches":[
+    {
+        "id": 1,
+        "title":"boAt Watch Wave Pro",
+        "category":"smart",
+        "price":3299,
+        "image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main1_0ae2597d-dee4-42fd-9a18-eb4ae0b3bc43_400x.png?v=1647765304",
+        "rating":{"rate":3, "count":32}
+            },
+             {
+        "id": 2,
+        "title":"boAt Watch Flash",
+        "category":"smart",
+        "price":2499,
+        "image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/5752f5e4-89e0-4f84-b7fe-4d9f85771046_400x.png?v=1625157753",
+        "rating":{"rate":4.8, "count":92}
+            },
+            {
+        "id": 3,
+        "title":"boAt Storm",
+        "category":"smart",
+        "price":2499,
+        "image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/a6549acb-b075-4c3e-8ed3-9c9fcba32d42_400x.png?v=1625046216",
+        "rating":{"rate":3.8, "count":932}
+            },
+             {
+        "id": 4,
+        "title":"boAt Watch Iris",
+        "category":"smart",
+        "price":4399,
+        "image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main-blue_d6503e2e-e0b1-4c4e-af28-2164903baf9f_400x.png?v=1640237576",
+        "rating":{"rate":5, "count":2}
+            }
+
+],
+"Trending_Wireless":[
+    {
+        "id": 1,
+        "title":"boAt Rockerz 235 V2",
+        "category":"T_Wireless",
+        "price":999,
+        "image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/ed46e58c-9643-43e0-b350-9539d293aa51_400x.png?v=1625045114",
+        "rating":{"rate":2.8, "count":1932}
+            },
+             {
+        "id": 2,
+        "title":"boAt Rockerz 245 V2",
+        "category":"T_Wireless",
+        "price":999,
+        "image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/245v2_main_2_400x.png?v=1627276367",
+        "rating":{"rate":4.8, "count":152}
+            },
+            {
+        "id": 3,
+        "title":"boAt Rockerz 450",
+        "category":"T_Wireless",
+        "price":1499,
+        "image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/7499af44-9d7a-489c-80f0-51f7799289e4_400x.png?v=1625045491",
+        "rating":{"rate":4, "count":532}
+            },
+             {
+        "id": 4,
+        "title":"boAt Rockerz 550",
+        "category":"T_Wireless",
+        "price":1999,
+        "image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/0cfa4417-0213-4b49-b78e-0ae68aeb7057_500x.png?v=1625046144",
+        "rating":{"rate":3, "count":5832}
+            }
+
+],
+"Trending_Wired":[
+    {
+        "id": 1,
+        "title":"boAt BassHeads 100",
+        "category":"T_Wired",
+        "price":399,
+        "image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/c3d0fbbd-9479-4351-bf04-91136da2ae91_500x.png?v=1625046259",
+        "rating":{"rate":4.8, "count":386}
+            },
+             {
+        "id": 2,
+        "title":"boAt BassHeads 103",
+        "category":"T_Wired",
+        "price":369,
+        "image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/103blk_500x.png?v=1574927262",
+        "rating":{"rate":4.8, "count":472}
+            },
+            {
+        "id": 3,
+        "title":"boAt BassHeads 102",
+        "category":"T_Wired",
+        "price":449,
+        "image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/f87f98c3-9b52-4f7f-9ebe-dd10ee9517d9_500x.png?v=1633152280",
+        "rating":{"rate":4.8, "count":150}
+            },
+             {
+        "id": 4,
+        "title":"boAt BassHeads 242",
+        "category":"T_Wired",
+        "price":449,
+        "image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/7d635fe4-8c4c-4c4b-8c00-6065455dc608_500x.png?v=1625046386",
+        "rating":{"rate":4, "count":330}
+            }
+
+],
+"Trending_Headphones":[
+    {
+        "id": 1,
+        "title":"boAt Rockerz 333 Pro",
+        "category":"T_Headphones",
+        "price":1699,
+        "image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/m2_852f9f1f-5498-4e5a-b6a2-0645a7abbc41_500x.png?v=1639153081",
+        "rating":{"rate":4.9, "count":78}
+            },
+             {
+        "id": 2,
+        "title":"boAt Airdopes 411 ANC",
+        "category":"T_Headphones",
+        "price":1899,
+        "image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main1_c5f9fe7c-c012-4d93-ba0c-b25267c0560d_500x.png?v=1647426797",
+        "rating":{"rate":3, "count":32}
+            },
+            {
+        "id": 3,
+        "title":"boAt Nirvanaa 1007ANC",
+        "category":"T_Headphones",
+        "price":9999,
+        "image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/nirvana-1007-blue_500x.png?v=1613457329",
+        "rating":{"rate":4, "count":2}
+            },
+             {
+        "id": 4,
+        "title":"boAt Airdopes 701 ANC",
+        "category":"T_Headphones",
+        "price":3990,
+        "image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/Banner5-product_1_500x.png?v=1618480496",
+        "rating":{"rate":3.8, "count":9}
+            }
+
+],
+"Gaming":[
+    {
+        "id": 1,
+        "title":"boAt Immortal 1000D",
+        "category":"Gaming",
+        "price":2299,
+        "image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/2_f3aa2756-01f3-4e39-80bc-7b4f6551c7aa_500x.png?v=1625748159",
+        "rating":{"rate":4.9, "count":12}
+            },
+             {
+        "id": 2,
+        "title":"boAt Immortal 700",
+        "category":"Gaming",
+        "price":2499,
+        "image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main2_33ed4e4f-8ef4-4c8a-a0c7-68216dfafa4a_500x.png?v=1643477993",
+        "rating":{"rate":2.5, "count":9232}
+            },
+            {
+        "id": 3,
+        "title":"boAt Immortal 1300",
+        "category":"Gaming",
+        "price":2899,
+        "image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/IM1300_main_2_500x.png?v=1632715015",
+        "rating":{"rate":4.8, "count":9}
+            },
+             {
+        "id": 4,
+        "title":"boAt Immortal 400",
+        "category":"Gaming",
+        "price":1999,
+        "image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main2-700_500x.png?v=1643632679",
+        "rating":{"rate":3.5, "count":1232}
+            }
+
+],
+
+"test":[
+    {
+        "id": 1,
+        "title":"",
+        "category":"best",
+        "price":0,
+        "image":"",
+        "rating":{"rate":4.8, "count":932}
+            },
+                {
+        "id": 2,
+        "title":"boAt Airdopes 131 - Wireless Earbuds",
+        "category":"best",
+        "price":999,
+        "image":"https://cdn.shopify.com/s/files/1/0057/8938/4802/products/32011675-2ad8-4b99-9787-895caf201d28_400x.png?v=1642405569",
+        "rating":{"rate":4.8, "count":932}
+                }
+]
+
+}
+
+
+
+ 
+    
