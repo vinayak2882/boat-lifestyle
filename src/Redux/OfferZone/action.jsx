@@ -109,6 +109,24 @@ const fetchDataFailure_GAMING =(payload)=>{
         payload,
     }
 }
+const fetchDataRequest_OZ =(payload)=>{
+    return {
+        type: types.FETCH_DATA_REQUEST_OZ,
+        payload
+    }
+}
+const fetchDataSuccess_OZ =(payload)=>{
+    return {
+        type: types.FETCH_DATA_SUCCESS_OZ,
+        payload
+    }
+}
+const fetchDataFailure_OZ =(payload)=>{
+    return {
+        type: types.FETCH_DATA_FAILURE_OZ,
+        payload,
+    }
+}
 const get_singleProductRequest =(payload)=>{
     return {
         type: types.GET_PRODUCT_REQUEST,
@@ -183,6 +201,15 @@ const fetchData_GAMING=(payload)=>{
     }
    
 }
+const fetchData_OZ=(payload)=>{
+    return(dispatch)=>{
+        dispatch(fetchDataRequest_OZ());
+        Axios.get('/Offer_zone')
+        .then(r=>dispatch(fetchDataSuccess_OZ(r.data)))
+        .catch(e=>dispatch(fetchDataFailure_OZ(e.data)))
+    }
+   
+}
 const getSingleProduct=(id,product)=>(dispatch)=>{
     return(dispatch)=>{
         dispatch(get_singleProductRequest());
@@ -193,4 +220,4 @@ const getSingleProduct=(id,product)=>(dispatch)=>{
    
 }
 
-export {fetchData, fetchData_SW, fetchData_TWIRED, fetchData_TWIRELESS, fetchData_THEDPHONES, fetchData_GAMING, getSingleProduct} 
+export {fetchData, fetchData_SW, fetchData_TWIRED, fetchData_TWIRELESS, fetchData_THEDPHONES, fetchData_GAMING, getSingleProduct, fetchData_OZ} 

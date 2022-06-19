@@ -1,9 +1,7 @@
 import { Box, Heading } from '@chakra-ui/react'
 import React, { useEffect } from 'react'
-import Filter from '../components/Filter'
 import { useSelector, useDispatch } from 'react-redux'
-
-import { fetchData_SW } from '../Redux/OfferZone/action'
+import { fetchData_OZ } from '../Redux/OfferZone/action'
 // test
 
 import {
@@ -32,30 +30,25 @@ import {
     rating: number;
     numReviews: number;
   }
+   
+   
 
-
-
-
-
-
-const OfferZone = () => {
-    const products = useSelector((store)=>store.ecommerceData.Smart_Watches)
+const Offer_zone = () => {
+    const products = useSelector((store)=>store.ecommerceData.Offer_zone)
    const dispatch =useDispatch()
     useEffect(()=>{
     if(products?.length===0){
-        dispatch(fetchData_SW())
+        dispatch(fetchData_OZ())
     }
    },[dispatch,products?.length])
    
     console.log(products)
   return (
-    <Box>
+    <Box backgroundColor={'black'}>
+       
         <Box>
-            <Filter/>
-        </Box>
-        <Box>
-            <Heading as='h2'>Best Seller</Heading>
-            <Flex justifyContent='space-around'>
+            <Heading textAlign='center' padding='5' color="white"  as='h2'>Offer Zone</Heading>
+            <Flex flexWrap='wrap' justifyContent='space-evenly'>
                 {products.map(product=>{
                     return <ProductAddToCart key ={product.id} image={product.image} title={product.title} price={product.price} rating={product.rating.rate} reviews={product.rating.count}/>
                 })}
@@ -100,7 +93,7 @@ const OfferZone = () => {
   
   function ProductAddToCart({image,price,title,rating,reviews}) {
     return (
-      <Flex p={2} w="full" alignItems="center" justifyContent="center" >
+      <Flex p={2} w="full" width='23%' alignItems="center" justifyContent="center"  >
         <Box
           bg={useColorModeValue('white', 'gray.800')}
           maxW="sm"
@@ -122,9 +115,10 @@ const OfferZone = () => {
             src={image}
             alt={`Picture of ${title}`}
             roundedTop="lg"
+            bgColor='#e3e3e3'
           />
   
-          <Box p="6" border='1px solid black'>
+          <Box p="6" borderTop="4px solid gray"  borderRadius='5px'>
             <Box d="flex" alignItems="baseline">
               {data.isNew && (
                 <Badge rounded="full" px="2" fontSize="0.8em" colorScheme="red">
@@ -164,8 +158,8 @@ const OfferZone = () => {
                 placement={'top'}
                 color={'gray.800'}
                 fontSize={'1.2em'}>
-                <chakra.a href={'#'} display={'flex'}>
-                  <Icon as={FiShoppingCart} h={7} w={7} alignSelf={'center'} />
+                <chakra.a  display={'flex'}>
+                  <Icon as={FiShoppingCart} h={7} w={7} alignSelf={'center'} onClick={()=>alert("ADDED TO CART")}/>
                 </chakra.a>
               </Tooltip>
           </Box>
@@ -177,4 +171,4 @@ const OfferZone = () => {
   }
   
 
-export default OfferZone
+export default Offer_zone

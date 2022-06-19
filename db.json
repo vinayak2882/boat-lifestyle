@@ -210,6 +210,176 @@
             }
 
 ],
+"Offer_zone": [
+    {
+      "id": 1,
+      "title": "boAt Airdopes 131 - Wireless Earbuds",
+      "category": "Offer_zone",
+      "price": 1199,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/cream_600x.png?v=1642405569",
+      "rating": { "rate": 4.8, "count": 931 }
+    },
+    {
+      "id": 2,
+      "title": "boAt Rockerz 235 V2",
+      "category": "Offer_zone",
+      "price": 1099,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/5f7d33ad-39a9-4426-836e-c300814839b9_600x.png?v=1625046105",
+      "rating": { "rate": 4.8, "count": 1007 }
+    },
+    {
+      "id": 3,
+      "title": "boAt Airdopes 121 v2",
+      "category": "Offer_zone",
+      "price": 1299,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/airdopes-121-v2-black_600x.png?v=1612765376",
+      "rating": { "rate": 4.8, "count": 404 }
+    },
+    {
+      "id": 4,
+      "title": "boAt Storm",
+      "category": "Offer_zone",
+      "price": 2499,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/e7910a39-186a-41f6-ac57-fc3e84108104_600x.png?v=1625045106",
+      "rating": { "rate": 4.8, "count": 912 }
+    },
+    {
+      "id": 5,
+      "title": "boAt Rockerz 255 Pro+",
+      "category": "Offer_zone",
+      "price": 1499,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/e7910a39-186a-41f6-ac57-fc3e84108104_600x.png?v=1625045106",
+      "rating": { "rate": 4.8, "count": 309 }
+    },
+    {
+      "id": 6,
+      "title": "boAt Rockerz 330",
+      "category": "Offer_zone",
+      "price": 1499,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main1_15634ca0-9f81-4d11-b891-9a1496f709b1_600x.png?v=1641801688",
+      "rating": { "rate": 4.8, "count": 258 }
+    },
+    {
+      "id": 7,
+      "title": "boAt Watch Xtend‌",
+      "category": "Offer_zone",
+      "price": 2999,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main2_529ecf13-c993-4fe7-a2d6-9357f1a47db4_600x.png?v=1650387008",
+      "rating": { "rate": 4.8, "count": 113 }
+    },
+    {
+      "id": 8,
+      "title": "boAt Airdopes 381 - In Ear Wireless Earbuds",
+      "category": "Offer_zone",
+      "price": 2099,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/86b7c390-4a4b-45d7-91e1-65007653b71e_600x.png?v=1625045261",
+      "rating": { "rate": 4.8, "count": 108 }
+    },
+    {
+      "id": 9,
+      "title": "boAt Rockerz 450",
+      "category": "Offer_zone",
+      "price": 1499,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/eb8e0fbd-c412-48b3-9c91-5b49ddf35800_600x.png?v=1625045744",
+      "rating": { "rate": 4.8, "count": 253 }
+    },
+    {
+      "id": 10,
+      "title": "boAt BassHeads 105",
+      "category": "Offer_zone",
+      "price": 499,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main15_600x.png?v=1623832759",
+      "rating": { "rate": 4.8, "count": 64 }
+    },
+    {
+      "id": 11,
+      "title": "boAt Watch Flash",
+      "category": "Offer_zone",
+      "price": 2499,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/9da7e1ae-89f2-42c4-9714-76ac5ec83817_600x.png?v=1625045743",
+      "rating": { "rate": 4.8, "count": 43 }
+    },
+    {
+      "id": 12,
+      "title": "boAt Stone 650",
+      "category": "Offer_zone",
+      "price": 1699,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/91efc297-d380-4ccf-a70e-b9ab9ab1ad5b_600x.png?v=1625045298",
+      "rating": { "rate": 4.8, "count": 106 }
+    },
+    {
+      "id": 13,
+      "title": "boAt Stone 1200",
+      "category": "Offer_zone",
+      "price": 3999,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/12d2b457-84fc-4ad2-89cb-5c5c5c0476e2_600x.png?v=1625045905",
+      "rating": { "rate": 4.8, "count": 70 }
+    },
+    {
+      "id": 14,
+      "title": "Misfit T200",
+      "category": "Offer_zone",
+      "price": 1649,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/963d0725-90b9-42a4-9fcc-a842968cfee4_600x.png?v=1625045778",
+      "rating": { "rate": 4.9, "count": 31 }
+    },
+    {
+      "id": 15,
+      "title": "boAt Immortal 1300",
+      "category": "Offer_zone",
+      "price": 2899,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/IM1300_main_3_600x.png?v=1632715016",
+      "rating": { "rate": 4.8, "count": 8 }
+    },
+    {
+      "id": 16,
+      "title": "Trebel Rockerz 255 Pro+",
+      "category": "Offer_zone",
+      "price": 1599,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/35ca6350-d6f3-4bc2-a742-01b2c88d80c4_32f4ee23-49e0-4671-a25c-d92c8e085785_700x.png?v=1646389952",
+      "rating": { "rate": 4.8, "count": 5 }
+    },
+    {
+      "id": 17,
+      "title": "boAt Aavante Bar 1190",
+      "category": "Offer_zone",
+      "price": 5499,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/23a5344a-2fe1-4fab-8cd1-7fd42597b9cf_600x.png?v=1623813138",
+      "rating": { "rate": 4.8, "count": 8 }
+    },
+    {
+      "id": 18,
+      "title": "TRebel Watch Xtend‌",
+      "category": "Offer_zone",
+      "price": 3499,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main1_86ea6392-558a-4943-ab86-f9f12fe8f4d9_600x.png?v=1646393709",
+      "rating": { "rate": 4.8, "count": 2 }
+    },
+    {
+      "id": 19,
+      "title": "boAt Aavante Bar 1800",
+      "category": "Offer_zone",
+      "price": 8499,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/aavante-bar-1800-1_600x.png?v=1613736244",
+      "rating": { "rate": 4.8, "count": 1 }
+    },
+    {
+      "id": 20,
+      "title": "boAt Aavante 1200",
+      "category": "Offer_zone",
+      "price": 6999,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/bb348a35-6d9c-4d8d-abbf-aac49bab378b_600x.png?v=1638360122",
+      "rating": { "rate": 4.8, "count": 5 }
+    },
+    {
+      "id": 21,
+      "title": "boAt Rockerz 330 - Make in India",
+      "category": "Offer_zone",
+      "price": 1599,
+      "image": "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/main3_e96a0c19-7bb3-498f-8866-5101d87d421f_600x.png?v=1652723915",
+      "rating": { "rate": 4.8, "count": 931 }
+    }
+  ],
 
 "test":[
     {

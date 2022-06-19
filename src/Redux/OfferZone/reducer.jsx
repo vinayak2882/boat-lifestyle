@@ -8,6 +8,7 @@ const initialState ={
     Trending_Headphones:[],
     CurrentProduct:{},
     Gaming:[],
+    Offer_zone:[],
     error:'',
     loading:false,
 }
@@ -130,6 +131,26 @@ const reducer = (state = initialState, action)=>{
              }
        
         case types.FETCH_DATA_FAILURE_GAMING:
+             return{
+                ...state,
+               error:payload,
+               loading:false,
+             }
+        case types.FETCH_DATA_REQUEST_OZ:
+             return{
+                ...state,
+                error:"",
+                loading:true,
+             }
+        case types.FETCH_DATA_SUCCESS_OZ:
+             return{
+                ...state,
+                Offer_zone:payload,
+                error:"",
+                loading:false,
+             }
+       
+        case types.FETCH_DATA_FAILURE_OZ:
              return{
                 ...state,
                error:payload,
